@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "product": "LucenTimeline",
+  "channel": "internal-demo",
+  "latest": {
+    "version": "25.4.2.0",
+    "minSupportedVersion": "1.0.0.0",
+    "package": {
+      "url": "https://raw.githubusercontent.com/ahsan-oto/OTL-Releases-Test/main/releases/22.4.2.0/LucenTimeline-25.4.2.0.exe",
+      "sha256": "10f24356e0c91528d4e23ded86d5f744ec40244912b31da0cb5d7cfabdd88361",
+      "sizeBytes": 152158208
+    }
+  }
+}
