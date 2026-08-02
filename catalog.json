@@ -6,9 +6,10 @@
     "version": "36.00.00.00",
     "minSupportedVersion": "1.0.0.0",
     "package": {
-      "url": "https://github.com/wasif-ot/otl-test-release/releases/download/v36.00.00.00/LucenTimeline.exe",
-      "sha256": "6673b6b4756c16ad866ed522ba21ea549b6b8b50ad65ffd5e3435cb857326a41",
+      "url": "https://github.com/wasif-ot/otl-test-release/releases/download/v51.00.00.00/LucenTimeline.exe",
+      "sha256": "fa2506f11044e814880c18b9cbbe2488b44ea0b5440d22c1933a1b9ad9910750",
       "sizeBytes": 152158208
     }
   }
 }
+sha256:
