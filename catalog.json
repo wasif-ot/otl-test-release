@@ -3,11 +3,11 @@
   "product": "LucenTimeline",
   "channel": "internal-demo",
   "latest": {
-    "version": "64.00.00.00",
+    "version": "00.00.00.03",
     "minSupportedVersion": "1.0.0.0",
     "package": {
-      "url": "https://github.com/wasif-ot/otl-test-release/releases/download/64.00.00.00/LucenTimeline.exe",
-      "sha256": "fa171f5cf537fbdc4672c0955ea7e2da5407423b6d34f292cf3b757461c462cf",
+      "url": "https://github.com/wasif-ot/otl-test-release/releases/download/00.00.00.03/LucenTimeline.exe",
+      "sha256": "46f39791be1bd06dbcf6fb5465878295fc960ae4f7c369398353c8a69ebbfb62",
       "sizeBytes": 152158208
     }
   }
